@@ -8,6 +8,9 @@ https://conchettapark.github.io/Homework-2/index.html
 
 
 
+![](Assets/Images/screenshot1.png)
+![](Assets/Images/screenshot2.png)
+![](Assets/Images/screenshot3.png)
 
 
 
