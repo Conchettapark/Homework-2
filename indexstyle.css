@@ -1,8 +1,42 @@
 * {
-    font-family: 'Rajdhani', sans-serif;
+  font-family: "Rajdhani", sans-serif;
 }
 
 .navbar-brand {
-    font-weight: 600;
-    font-style: semi-bold;
+  font-weight: 600;
+  font-style: semi-bold;
+}
+
+.img-thumbnail {
+  border-radius: 20px;
+  border: 1px grey solid;
+}
+
+#bio {
+  border: 1px grey solid;
+  border-radius: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+body {
+  background-image: url(https://www.lefthudson.com/wp-content/uploads/2019/11/grey-backgrounds-awesome-light-grey-background-c2b7e291a0-download-free-awesome-hd-backgrounds-for-desktop-puters-and-2019-of-grey-backgrounds.jpg);
+}
+
+.git {
+  width: 45px;
+  height: 45px;
+  padding: 8px;
+}
+
+.linked {
+  width: 45px;
+  height: 45px;
+  padding: 8px;
+}
+
+.res {
+  width: 45px;
+  height: 45px;
+  padding: 8px;
 }
